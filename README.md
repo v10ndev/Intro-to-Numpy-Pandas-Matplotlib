@@ -1,6 +1,6 @@
 ### Tutorial notebooks on numpy, pandas and matplolib
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/v10ndev/Intro-to-Numpy-Pandas-Matplotlib) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/v10ndev/Intro-to-Numpy-Pandas-Matplotlib/blob/master/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/v10ndev/Intro-to-Numpy-Pandas-Matplotlib/issues) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/v10ndev/Intro-to-Numpy-Pandas-Matplotlib/pulls)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/v10ndev/Intro-to-Numpy-Pandas-Matplotlib/master) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/v10ndev/Intro-to-Numpy-Pandas-Matplotlib/blob/master/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/v10ndev/Intro-to-Numpy-Pandas-Matplotlib/issues) [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/v10ndev/Intro-to-Numpy-Pandas-Matplotlib/pulls)
 __________
 
 <img src="logo.png" height=350px width="1500">
